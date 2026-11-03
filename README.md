@@ -1,6 +1,8 @@
 # Projeto-de-engenharia-de-requisitos
 Projeto Veterano
 
-Daniel Oliveira           Moises Cunha
-Cauã Diniz                Lucca Perez
+Daniel Oliveira          
+Cauã Diniz                
+Lucca Peres
 Eduardo Victor
+Moises Cunha
