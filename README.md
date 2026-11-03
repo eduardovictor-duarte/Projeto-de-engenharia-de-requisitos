@@ -1,16 +1,16 @@
-# 🎓 Veterano – Plataforma de Mentoria Acadêmica
+# Veterano – Plataforma de Mentoria Acadêmica
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O **Veterano** é uma plataforma acadêmica que conecta estudantes universitários que possuem dificuldades em determinadas disciplinas a alunos veteranos que já foram aprovados nessas matérias.
 
 O objetivo é oferecer aulas de reforço acessíveis, facilitando o aprendizado por meio de mentorias entre estudantes da mesma instituição, disciplina e professor.
 
-## 🎯 Objetivo
+## Objetivo
 
 Desenvolver uma solução que facilite o acesso ao reforço acadêmico, permitindo que estudantes encontrem mentores qualificados, agendem aulas e realizem pagamentos de forma segura.
 
-## 💡 Principais Funcionalidades
+## Principais Funcionalidades
 
 - Cadastro e autenticação de usuários.
 - Perfis de mentores e mentorados.
@@ -23,7 +23,7 @@ Desenvolver uma solução que facilite o acesso ao reforço acadêmico, permitin
 - Avaliação dos mentores.
 - Acompanhamento de ganhos dos mentores.
 
-## 🛠️ Tecnologias e Modelagem
+## Tecnologias e Modelagem
 
 O projeto utiliza conceitos e técnicas de Engenharia de Requisitos e UML, incluindo:
 
@@ -36,19 +36,19 @@ O projeto utiliza conceitos e técnicas de Engenharia de Requisitos e UML, inclu
 - Diagrama de Classes UML.
 - Critérios de qualidade baseados na ISO/IEC 25010.
 
-## 👥 Público-Alvo
+## Público-Alvo
 
 - **Mentorados:** estudantes universitários que precisam de reforço acadêmico.
 - **Mentores:** alunos veteranos aprovados em disciplinas que desejam oferecer aulas e obter renda extra.
 - **Administradores:** responsáveis pela validação de comprovantes e gerenciamento da plataforma.
 
-## 💰 Modelo de Negócio
+## Modelo de Negócio
 
 - Comissão de 15% sobre cada aula realizada.
 - Valor de referência das aulas entre R$ 20 e R$ 40 por hora.
 - Pagamentos processados pela plataforma, com retenção até a confirmação da realização da aula.
 
-## 🔒 Segurança e Qualidade
+## Segurança e Qualidade
 
 O sistema considera:
 
@@ -59,14 +59,14 @@ O sistema considera:
 - Pagamentos com retenção em custódia.
 - Interface responsiva e de fácil utilização.
 
-## 🚀 Próximos Passos
+## Próximos Passos
 
 1. Realizar entrevistas com estudantes.
 2. Desenvolver protótipos das telas.
 3. Implementar a integração com o gateway de pagamento.
 4. Validar os primeiros mentores cadastrados.
 
-## 👨‍💻 Equipe de Desenvolvimento
+## Equipe de Desenvolvimento
 
 - Cauã Diniz
 - Eduardo Duarte
@@ -74,7 +74,7 @@ O sistema considera:
 - Moises Cunha
 - Lucca Peres
 
-## 🎓 Informações Acadêmicas
+## Informações Acadêmicas
 
 - **Instituição:** CEUB
 - **Curso:** Engenharia de Software
